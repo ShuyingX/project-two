@@ -83,7 +83,6 @@ header {
   background-size: cover;
   min-height: 100vh;
   display: grid;
-  background-attachment: fixed;
 }
 
 .hero-content {
@@ -170,10 +169,9 @@ p {
   text-align: center;
   background-image: url(../img/about.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: top;
   height: 50vh;
   display: grid;
-  background-attachment: fixed;
 }
 
 @media (min-width: 767.98px) {
@@ -221,10 +219,9 @@ p {
   text-align: center;
   background-image: url(../img/history.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: top;
   height: 50vh;
   display: grid;
-  background-attachment: fixed;
 }
 
 @media (min-width: 767.98px) {
@@ -392,10 +389,9 @@ p {
   text-align: center;
   background-image: url(../img/stories.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: top;
   height: 50vh;
   display: grid;
-  background-attachment: fixed;
 }
 
 @media (min-width: 767.98px) {
