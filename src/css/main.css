@@ -169,8 +169,7 @@ p {
   text-align: center;
   background-image: url(../img/about.jpg);
   background-size: cover;
-  background-position: top;
-  height: 50vh;
+  min-height: 50vh;
   display: grid;
 }
 
@@ -219,8 +218,7 @@ p {
   text-align: center;
   background-image: url(../img/history.jpg);
   background-size: cover;
-  background-position: top;
-  height: 50vh;
+  min-height: 50vh;
   display: grid;
 }
 
@@ -389,8 +387,7 @@ p {
   text-align: center;
   background-image: url(../img/stories.jpg);
   background-size: cover;
-  background-position: top;
-  height: 50vh;
+  min-height: 50vh;
   display: grid;
 }
 
